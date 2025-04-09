@@ -16,7 +16,7 @@ body {
     display: block;
   }
   
-  /* Topo com fundo de capa */
+  /* Topo */
   .topo {
     background: url('img/capa.jpg') no-repeat center center;
     background-size: cover;
